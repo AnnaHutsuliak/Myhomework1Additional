@@ -1,7 +1,7 @@
 package com.epam.hometask1add;
 import java.util.Scanner;
 
-public class hometask1add {
+public class Hometask1add {
     public static void main (String [] arg) {
 
         Scanner sc= new Scanner( System.in);
